@@ -30,7 +30,7 @@ AnimeJotter utiliza a [Jikan API](https://jikan.moe/), uma api publica de pesqui
 * Github: [@LucasAugustoCastro](https://github.com/LucasAugustoCastro)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/lucasaugustocastro\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/lucasaugustocastro\/)
 
-## Montre seu apoio
+## Mostre seu apoio
 
 Dê uma ⭐️ se o projeto ajudou você!
 
